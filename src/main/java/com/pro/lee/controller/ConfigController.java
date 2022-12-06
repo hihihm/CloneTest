@@ -1,4 +1,4 @@
-package com.pro.jung;
+package com.pro.lee.controller;
 
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.RequestMapping;

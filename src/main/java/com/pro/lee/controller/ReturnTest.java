@@ -1,4 +1,4 @@
-package com.pro.jung.controller;
+package com.pro.lee.controller;
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
